@@ -1,0 +1,38 @@
+.card {
+    -fx-border-style: solid inside;
+    -fx-border-width: 1;
+    -fx-border-insets: 5;
+    -fx-border-color: black;
+}
+
+.cardGrid {
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: black;
+}
+
+.player {
+    -fx-padding: 10;
+}
+
+.selected {
+    -fx-background-color: rgb(235, 64, 52);
+}
+
+.playerGrid {
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: black;
+}
+
+.buttonGrid {
+    -fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-border-insets: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: black;
+}
