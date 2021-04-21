@@ -7,7 +7,7 @@ Realized by aurelien.ravaud@etu.univ-poitiers.fr and nicolas.renault@etu.univ-po
 
 ### FR
 
-Projet de ma Licence professionnelles Technologies du Web et Terminaux Mobiles | Université de Poitiers. Le sujet était de réaliser un Memory en JavaFX, avec des fonctionnalités supplémentaires.  
+Projet de ma Licence professionnelles Technologies Logicielles du Web et Terminaux Mobiles | Université de Poitiers. Le sujet était de réaliser un Memory en JavaFX, avec des fonctionnalités supplémentaires.  
 
 Réalisé par aurelien.ravaud@etu.univ-poitiers.fr et nicolas.renault@etu.univ-poitiers.fr
 
